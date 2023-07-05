@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ItemPanels
+  m_EditorClassIdentifier: 
+  m_GroupName: ItemPanels
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1c7e27a4441af664f9592449022569a9
+  m_SerializeEntries:
+  - m_GUID: 611074fcc23b3904fb0cf3a8a82cc938
+    m_Address: Assets/Game/Prefabs/Panels/Type_Panel_1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec45da0a9b6d89c4ea5c5cc8ff25111a
+    m_Address: Assets/Game/Prefabs/Panels/Type_Panel_2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1e8fa9ed5dff137418fc82ec3c113c5f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 070548b807e568745981b6812c195be8, type: 2}
+    - {fileID: 11400000, guid: 3e0e2e7ef5b946c4496d69e4d3df6336, type: 2}

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ItemsImage
+  m_EditorClassIdentifier: 
+  m_GroupName: ItemsImage
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 9a90ffdd8fd474344aab4088dcce9e2b
+  m_SerializeEntries:
+  - m_GUID: becc3575bc2780841b0922f6dc90f653
+    m_Address: Assets/Game/Prefabs/Images/Troops/T1_Swordman.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6aa2b44467f0c6547b887e4fc1684862
+    m_Address: Assets/Game/Prefabs/Images/SpeedsUps/Hourglass.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bda38be6c1cf4104bbde3386ba6ed33f
+    m_Address: Assets/Game/Prefabs/Images/SpeedsUps/Hourglass4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45641e49c1235714696bf75fb3f297ef
+    m_Address: Assets/Game/Prefabs/Images/SpeedsUps/Hourglass3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1754e7eddd528ff4fb1cc737e729c34b
+    m_Address: Assets/Game/Prefabs/Images/SpeedsUps/Hourglass2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1e8fa9ed5dff137418fc82ec3c113c5f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c383770806dfc2941b0eaea770dc6fc5, type: 2}
+    - {fileID: 11400000, guid: f0c0ecaf3530d194abc0466afddfa61b, type: 2}

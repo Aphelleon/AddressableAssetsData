@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Image_ID_GameObjects
+  m_EditorClassIdentifier: 
+  m_GroupName: Image_ID_GameObjects
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2f099c25e4f3f154aa6e323c8948cfb2
+  m_SerializeEntries:
+  - m_GUID: 709d73cde58205a48aa2066a43ec64fb
+    m_Address: Assets/Game/Prefabs/Images/ImageID/ImageID_Material.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73cd8ba4917426a4dbba37047a7abd84
+    m_Address: Assets/Game/Images/ImageID/Ghoul.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15b4121ece5d90249b292680cda67e7c
+    m_Address: Assets/Game/Images/ImageID/Human.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1497b8170cda764bb45fa210dca23b5
+    m_Address: Assets/Game/Images/ImageID/Orc.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c3b8f92b6878124a970bc0fd4f90c2f
+    m_Address: Assets/Game/Prefabs/Images/ImageID/ImageID_Ghouls.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4cb949b7691bf646b03d7bb12285c02
+    m_Address: Assets/Game/Prefabs/Images/ImageID/ImageID_Humans.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fdffeed07330650428539682873565cd
+    m_Address: Assets/Game/Prefabs/Images/ImageID/ImageID_Orcs.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df68679a330a21e4aaac89f9e262c9f1
+    m_Address: Assets/Game/Prefabs/Images/ImageID/Wolf_Prefab.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4794a8d8344b75a409a41296b9bb0b72
+    m_Address: Assets/Game/Shaders/ChromaKeys.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a50e2f333199fac47b2505522bf5770d
+    m_Address: Assets/Game/Prefabs/Images/ImageID/Wolf_Material.mat
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1e8fa9ed5dff137418fc82ec3c113c5f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: a53d09c8e4109d64c876e55114062265, type: 2}
+    - {fileID: 11400000, guid: ad48d39e7ac6cdb44a059b3cfffb1e52, type: 2}

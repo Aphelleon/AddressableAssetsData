@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4a2ad91c4228c1142a4b61596fb7e762
+  m_SerializeEntries:
+  - m_GUID: a0fc465d6cf04254a2938578735e2383
+    m_Address: Assets/TextMesh Pro/Examples & Extras/Sprites/Default Sprites.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58d0548ed5330da47bd1a7668b2e1c8c
+    m_Address: Assets/Game/Images/ImageID/Human.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b051f6b7e202bf41989fb3173369f48
+    m_Address: Assets/Game/Images/ImageID/Orc.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1e8fa9ed5dff137418fc82ec3c113c5f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c535ae2dde925a747a795d6413a05717, type: 2}
+    - {fileID: 11400000, guid: a3e04ac8d432db04394518a47cf5444c, type: 2}

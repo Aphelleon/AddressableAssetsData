@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Avatars
+  m_EditorClassIdentifier: 
+  m_GroupName: Avatars
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0dfc61dd16117a348aee0aeeb0cf953a
+  m_SerializeEntries:
+  - m_GUID: a65f97894579a224fb1c6152e84a43df
+    m_Address: Assets/Game/Prefabs/Images/Avatars/Ghouls/Ghoul_01.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1e8fa9ed5dff137418fc82ec3c113c5f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: cd820eb2e9f9b194ca95ae73f3db5ad0, type: 2}
+    - {fileID: 11400000, guid: 31cf701faace97443ba3fac5851b4aed, type: 2}
